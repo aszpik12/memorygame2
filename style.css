@@ -1,0 +1,13 @@
+article{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+main{
+    margin: auto;
+    width: 80%;
+}
+
+img{
+    width: 200px;
+}
